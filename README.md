@@ -74,7 +74,7 @@ func main() {
   
 Outputs:  
 
-![readme_example_output](https://github.com/onegii/go-asten/assets/111180807/a8cb73e6-995f-4890-9589-882eea9b4c87)
+![readme_example_output](https://github.com/onegii/go-asten/assets/111180807/463a31a3-bd7f-4ab5-a1c7-6ee09c97bbaf)
 
 # Installation
 ```
