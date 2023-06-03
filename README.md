@@ -7,7 +7,7 @@ Go-asten provides functionalities for runtime performance evaluation.
 The project is still in developement, feedback is welcome.
 
 # Overview
-Statistics are generated using timers and organized in Groups.
+Statistics are generated using timers and are organized in Groups.
 Each group contains one or more Profiles.
 Each Profile may be composite, i.e., a collection of sub-profiles.
 An example structure may be:
