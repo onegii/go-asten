@@ -97,7 +97,7 @@ func (g *GroupSt) Profile(pname string) *ProfileSt {
 }
 
 // Profile is equivalent to calling [GroupSt.Profile] on the group with the
-// deafult condition name (see [SetDefaultConditionName]), i.e., it is equivalent to:
+// default condition name (see [SetDefaultConditionName]), i.e., it is equivalent to:
 //
 //	Group(default_condition_name).Profile(pname)
 func Profile(pname string) *ProfileSt {

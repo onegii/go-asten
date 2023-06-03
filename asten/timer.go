@@ -34,7 +34,7 @@ func (t *Timer) Stop() {
 //	// ...
 //	t.StopAs("foo", "bar")
 //
-// Will have the sample be registerd in the sub-profile:
+// Will have the sample be registered in the sub-profile:
 //
 //	p1
 //	 └ foo
