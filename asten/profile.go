@@ -21,8 +21,7 @@ import (
 //   - composite: it represent a collection of subprofiles.
 //   - single-threaded
 //   - multi-threaded: in this case the effective runtime of the profile will
-//     simply be divided by the number of threads specified but capped by the number of
-//     cores on the machine.
+//     simply be divided by the number of threads specified.
 //   - memory full: it keeps memory of the start and the end of all recorded samples. This
 //     avoids updating the statistics each time a sample is recirded.
 //   - memoryless: when recording a sample statistics are updated and the sample discarded.

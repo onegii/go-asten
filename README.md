@@ -22,6 +22,18 @@ An example structure may be:
       └ Sub-Profile 2.1.1.1
 ```
 
+# Installing
+Use go get to install the latest version.
+
+```
+go get -u github.com/onegii/go-asten
+```
+Then, simply import Asten in your application:
+```go
+import "github.com/onegii/go-asten/asten"
+
+```
+
 # Usage
 Statistics are presented in a tabular manner. For example:
 
@@ -75,8 +87,3 @@ func main() {
 Outputs:  
 
 ![readme_example_output](https://github.com/onegii/go-asten/assets/111180807/463a31a3-bd7f-4ab5-a1c7-6ee09c97bbaf)
-
-# Installation
-```
-go get -u github.com/onegii/go-asten
-```
