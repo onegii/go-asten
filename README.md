@@ -1,3 +1,6 @@
+[![Go Reference](https://pkg.go.dev/badge/github.com/onegii/go-asten/asten.svg)](https://pkg.go.dev/github.com/onegii/go-asten/asten)
+[![Go Report Card](https://goreportcard.com/badge/github.com/onegii/go-asten)](https://goreportcard.com/report/github.com/onegii/go-asten)
+
 # Go-asten
 Go-asten provides functionalities for runtime performance evaluation.
   
@@ -23,7 +26,7 @@ An example structure may be:
 ```
 
 # Installing
-Use go get to install the latest version.
+Use `go get` to install the latest version.
 
 ```
 go get -u github.com/onegii/go-asten
